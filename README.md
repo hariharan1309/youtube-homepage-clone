@@ -1,3 +1,9 @@
+# Youtube Home Page Clone
+## This is a personal project developed to upskill myself
+  It was built using React.js, TypeScript, and TailwindCSS mainly.
+
+  It was built with vite.  
+  
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
